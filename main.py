@@ -1,4 +1,3 @@
-# Enable Developer Mod in discord , go to appearances and on developer mod :)
 import asyncio
 import datetime
 import json
